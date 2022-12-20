@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/OOP Scenes/Inheritance.unity
+    guid: ba08493d281682e4d9dbf8c8713f3ebf
+  - enabled: 1
+    path: Assets/Scenes/OOP Scenes/Polymorphism.unity
+    guid: 5fe3c9eaa412be34daedd46e4da6c594
+  - enabled: 1
+    path: Assets/Scenes/OOP Scenes/Encapsulation.unity
+    guid: b6eb29e8c7fe43243b4da169984be69b
+  - enabled: 1
+    path: Assets/Scenes/OOP Scenes/Abstraction.unity
+    guid: a6ecffa40b984ba4b831c6597f65ed48
   m_configObjects: {}
